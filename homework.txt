@@ -1,0 +1,9 @@
+Dizaino defektai
+1.To-Do srašas sunkiai matomas
+2.Raides per mažos  "Double-click to edit a todo" 
+3.Langas, kur rašomas naujas todo, atrodo kaip trys atidarytas
+
+Funkcionalumo klaidos
+1.buvo 3 itemai Saraše , paspaudei ant 2 ir vienas dar likês bet rodo, kad liko 0  klaidingai skaiciuoja
+2.Bandžiau   padaryti sarašas didesni TO DO LIST  dizaino raides stovejo viena ant kitos
+3.jei labai ilgas sarašs neduoda paspausti clear all reike atskirai spausti ant kiekviena taška
