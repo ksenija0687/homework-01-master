@@ -7,3 +7,5 @@ Funkcionalumo klaidos
 1.buvo 3 itemai Saraše , paspaudei ant 2 ir vienas dar likês bet rodo, kad liko 0  klaidingai skaiciuoja
 2.Bandžiau   padaryti sarašas didesni TO DO LIST  dizaino raides stovejo viena ant kitos
 3.jei labai ilgas sarašas neduoda paspausti clear all reike atskirai spausti ant kiekviena taška
+
+https://todolist.james.am/#/
